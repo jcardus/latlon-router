@@ -1,2 +1,2 @@
 # latlon-router
-Route lat / lon requests between servers
+Smart routing for Nominatim based on latitude and longitude
